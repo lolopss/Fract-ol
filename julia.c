@@ -19,7 +19,7 @@ void	init_data_julia(t_data *data)
 	data->y1 = -1.7;
 	data->y2 = 1.7;
 	data->zoom = 50;
-	data->max_iter = 2000;
+	data->max_iter = 175;
 }
 
 void	julia_algo(t_data *data)
