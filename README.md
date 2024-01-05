@@ -1,7 +1,7 @@
 # Fractol
 
 Fractol is a project from Ecole42 where the goal is to create Mandelbrot and Julia set fractals in C using the minilibx library.
-
+⚠️ This is not the project i pushed, i changed 1 or 2 minor things afterhand.
 
 ## Controls
 
