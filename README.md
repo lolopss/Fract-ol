@@ -22,7 +22,7 @@ Fractol is a project from Ecole42 where the goal is to create Mandelbrot and Jul
 To launch the project, use the following command:
 
 ```bash
-make re && ./fractol [mandelbrot/julia/julia2/random]
+make re && ./fractol mandelbrot | julia | julia2 | random
 ```
 ## Screenshots
 ### Mandelbrot
